@@ -1,0 +1,7 @@
+{
+  "languageSelector.english": "Anglais",
+  "languageSelector.french": "Francais",
+  "languageSelector.german": "Allemand",
+  "main.headline": "Bienvenue dans cet exemple d'application",
+  "main.intro": "Dans cette application, vous pouvez voir des exemples de solutions à des problèmes courants lors de la création d'applications avec react."
+}

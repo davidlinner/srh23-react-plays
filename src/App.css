@@ -1,0 +1,9 @@
+.navigation {
+    display: flex;
+
+}
+
+.navigation-item {
+    margin: 1rem;
+    cursor: pointer;
+}
